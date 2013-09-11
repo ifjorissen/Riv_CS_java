@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=VisCubelet(Cubelet)
+comment1.params=
+comment1.target=int[]\ getLocation()
+comment2.params=
+comment2.target=java.awt.Color[]\ getColor()
+comment3.params=texas\ wyoming
+comment3.target=void\ set2DLoc(int,\ int)
+comment4.params=
+comment4.target=int\ type()
+numComments=5

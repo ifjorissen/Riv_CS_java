@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=xish
+comment0.target=VisCubelet(Cubelet)
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ VisCubelet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=dx\ dy\ dz
+comment1.target=int[][]\ getPoints(double,\ double,\ double)
+comment10.params=
+comment10.target=int\ getType()
+comment2.params=
+comment2.target=int[]\ getLocationData()
+comment3.params=
+comment3.target=java.awt.Color[]\ getColor()
+comment4.params=num
+comment4.target=boolean\ renderable(int)
+comment5.params=a\ b\ c
+comment5.target=void\ move(double,\ double,\ double)
+comment6.params=a\ b
+comment6.target=void\ setRotation(double,\ double)
+comment7.params=a\ b
+comment7.target=void\ rotate(double,\ double)
+comment8.params=
+comment8.target=double[]\ getLoc()
+comment9.params=
+comment9.target=double[]\ getRot()
+numComments=11

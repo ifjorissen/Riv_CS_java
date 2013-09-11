@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CubeWorld_raster()
+comment1.params=
+comment1.target=void\ CubeiePop()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=s
+comment5.target=void\ addToRaster(Cubelet_O)
+comment6.params=s
+comment6.target=void\ removeFromRaster(Cubelet_O)
+numComments=7
