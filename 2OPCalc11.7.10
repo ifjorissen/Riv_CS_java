@@ -1,30 +1,6 @@
 
-/**
- * Replace this text with purpose and description
- *   
- *                   ___.
- *                 /.   \.___.
- *                /-  \_/     \
- *             `_// \   ___   |\.'
- *                   |__|  |__|
- * @author    Isabella Jorissen 
- * @version    1.0
- *___________________
- * Title     Math Equation 
- * Date     11.7.2010  
- * Assignment Write a program that allows the user to enter a two operand equation. Print the result.
- * Comments  
- * ~Time      2 hours
- *
- * Disclaimer  
- *
- *___________________
- * Grade    
- * Comments : 
- * 
- *___________________
- * {@link http://java.sun.com/j2se/javadoc/writingdoccomments/}
- */
+//Write code for a two operand equation.  Print result.
+
 import java.util.Scanner;
 import java.io.*;
 import java.text.NumberFormat;
